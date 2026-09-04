@@ -5,7 +5,7 @@ CodeCLI 社区版由维护者和贡献者以合理努力提供支持，不承诺
 ## 获取帮助
 
 1. 阅读 [`README.md`](README.md) 和 [`docs/providers.md`](docs/providers.md)；
-2. 搜索已有 [Issues](https://github.com/Hardboiled98k/codecli/issues)；
+2. 搜索已有 [Issues](https://github.com/MaxHaiCom/codecli/issues)；
 3. 使用 Bug Report 模板提交一个最小、可复现的问题。
 
 提交问题时请提供：CodeCLI 版本或提交号、操作系统及架构、目标 CLI/Provider、复现步骤、预期结果、实际结果，以及经过人工复核的脱敏日志。
@@ -35,4 +35,4 @@ CodeCLI 社区版由维护者和贡献者以合理努力提供支持，不承诺
 
 ## 官方来源
 
-官方源码仓库为 <https://github.com/Hardboiled98k/codecli>。仅将该仓库 Releases 页面明确发布的文件视为官方构建；维护者无法为第三方重新打包版本提供完整性保证。
+官方源码仓库为 <https://github.com/MaxHaiCom/codecli>。仅将该仓库 Releases 页面明确发布的文件视为官方构建；维护者无法为第三方重新打包版本提供完整性保证。

@@ -34,12 +34,12 @@
   "description": "开源的 Claude Code 与 Codex CLI 桌面安装、配置、诊断和维护工具",
   "license": "MPL-2.0",
   "author": "南京孤岛网络科技有限公司",
-  "homepage": "https://github.com/Hardboiled98k/codecli#readme",
+  "homepage": "https://github.com/MaxHaiCom/codecli#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hardboiled98k/codecli.git"
+    "url": "git+https://github.com/MaxHaiCom/codecli.git"
   },
   "bugs": {
-    "url": "https://github.com/Hardboiled98k/codecli/issues"
+    "url": "https://github.com/MaxHaiCom/codecli/issues"
   }
 }

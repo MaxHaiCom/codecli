@@ -78,7 +78,7 @@ export function VersionsPanel({
     }
   }
 
-  const downloadUrl = "https://github.com/Hardboiled98k/codecli/releases/latest";
+  const downloadUrl = "https://github.com/MaxHaiCom/codecli/releases/latest";
   const downloadConfigured = true;
 
   async function openLatestDownload() {
