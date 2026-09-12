@@ -49,6 +49,6 @@ CodeCLI 会安装开发工具并修改用户配置，因此我们把供应链完
 
 ## 验证官方来源
 
-官方源码仓库为：<https://github.com/Hardboiled98k/codecli>
+官方源码仓库为：<https://github.com/MaxHaiCom/codecli>
 
 仅信任该仓库 Releases 页面明确发布并提供验证信息的构建。维护者不会要求用户关闭系统安全功能运行来源不明的文件，也不会索要完整 API Key、密码或 Token。

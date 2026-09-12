@@ -10,6 +10,6 @@ CodeCLI 的项目源码除另有说明外按 Mozilla Public License 2.0 提供�
 
 Anthropic、Claude、Claude Code、OpenAI、ChatGPT、Codex 及其他第三方名称和商标属于各自权利人。CodeCLI 是独立社区项目，不隶属于、未获授权于且不代表这些第三方；引用名称仅用于说明兼容性。
 
-项目主页：<https://github.com/Hardboiled98k/codecli>
+项目主页：<https://github.com/MaxHaiCom/codecli>
 网站：<https://gudao.best>
 联系：<825242058@qq.com>

@@ -1,7 +1,7 @@
 # CodeCLI
 
 [![License: MPL-2.0](https://img.shields.io/badge/License-MPL--2.0-blue.svg)](LICENSE)
-[![CI](https://github.com/Hardboiled98k/codecli/actions/workflows/ci.yml/badge.svg)](https://github.com/Hardboiled98k/codecli/actions/workflows/ci.yml)
+[![CI](https://github.com/MaxHaiCom/codecli/actions/workflows/ci.yml/badge.svg)](https://github.com/MaxHaiCom/codecli/actions/workflows/ci.yml)
 
 CodeCLI 是一个面向 macOS 与 Windows 的开源桌面安装、配置和自检工具，帮助用户在自己的电脑上安装与管理 Claude Code、Codex CLI 等命令行开发工具。
 
@@ -57,7 +57,7 @@ CodeCLI 仍会按用户选择访问必要的第三方网络资源，例如下载
 ### 启动
 
 ```bash
-git clone https://github.com/Hardboiled98k/codecli.git
+git clone https://github.com/MaxHaiCom/codecli.git
 cd codecli
 pnpm install --frozen-lockfile
 pnpm tauri dev
